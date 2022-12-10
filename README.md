@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-04
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a Data  Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
