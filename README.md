@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @John-04
 - 👀 I’m interested in programming
 - 🌱 I’m currently a Data  Analyst
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Analytical and ML projects
+- 📫 How to reach me fashjohn04@gmail.com
 
 <!---
 John-04/John-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
