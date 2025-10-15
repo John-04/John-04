@@ -16,7 +16,7 @@ Data Analytics · BI and Product Analytics · Blockchain and Onchain Data Analyt
 🐦 **X (Twitter):** [@John Fashola](https://x.com/John_TheAnalyst)  
 💬 **Discord:** BLVKJXN
 
-🔗 **See more of my data science work:** [dataanalystportfolio/john](https://john-fashola.netlify.app/)
+🔗 **See more of my work:** [dataanalystportfolio/john](https://john-fashola.netlify.app/)
 
 🔗 **My On-Chain Analytics Projects On Dune:** [John on Dune](https://dune.com/_john_)
 
