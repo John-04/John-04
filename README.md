@@ -14,11 +14,11 @@ Data Analytics · BI and Product Analytics · Blockchain and Onchain Data Analyt
 
 📱 **Phone:** (+234) 09134169198  
 🐦 **X (Twitter):** [@John Fashola](https://x.com/John_TheAnalyst)  
-💬 **Discord:** Yosemite00
+💬 **Discord:** BLVKJXN
 
-🔗 **See more of my data science work:** [datascienceportfol.io/ndifreke](https://www.datascienceportfol.io/ndifreke)
+🔗 **See more of my data science work:** [dataanalystportfolio/john](https://john-fashola.netlify.app/)
 
-🔗 **My On-Chain Analytics Projects On Dune:** [Ndii on Dune](https://dune.com/ndii)
+🔗 **My On-Chain Analytics Projects On Dune:** [John on Dune](https://dune.com/_john_)
 
 
 ### 📊 My GitHub Stats
